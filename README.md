@@ -2,6 +2,8 @@
 https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka
 
 ## M1 - Data Processing Techniques
+![image](https://github.com/user-attachments/assets/baf17886-7886-40e7-bc9f-e2a5eaafd7b2)
+
 
 ### ETL and ELT PRocesses
 

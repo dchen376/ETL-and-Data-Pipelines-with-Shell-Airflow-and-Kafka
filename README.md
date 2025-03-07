@@ -133,12 +133,31 @@ https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka
 
 ![image](https://github.com/user-attachments/assets/0d328441-2e7a-4e77-a12a-981e8dfb9084)
 
-
-
-
-
-
 ### ETL using Shell Scripts
+
+#### Linux Commands and Shell Scripting
+
+#### ETL Techniques
+![image](https://github.com/user-attachments/assets/d3a1415a-098b-443b-82b5-3363622d101d)
+![image](https://github.com/user-attachments/assets/de795d5a-b802-4230-8320-5f23a1175a18)
+![image](https://github.com/user-attachments/assets/4aad1911-ac42-406f-b756-5a1a0a51b740)
+![image](https://github.com/user-attachments/assets/143d2f27-4e7a-4f9e-a4ab-71512f880256)
+
+![image](https://github.com/user-attachments/assets/52d8233c-4f14-4970-ae22-69aed4b91f44)
+![image](https://github.com/user-attachments/assets/02f3bbd4-260b-47c0-ad0f-b5c8f18a01ca)
+
+![image](https://github.com/user-attachments/assets/b4126506-c106-4708-876e-2c4d9ef09aad)
+
+##### popular ETL tools
+![image](https://github.com/user-attachments/assets/f4e331b5-d3e6-4f97-832f-b94c68da6be0)
+![image](https://github.com/user-attachments/assets/ffb7bce7-e6ca-449a-bcc1-6c9b84658c1a) *
+![image](https://github.com/user-attachments/assets/3d4e7095-185d-4205-b45a-5f7cb3928808) *
+
+
+#### ETL Using Shell Scripting
+
+
+
 
 ### An Introduction to Data Pipelines
 

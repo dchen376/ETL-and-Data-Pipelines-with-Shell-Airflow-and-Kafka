@@ -121,6 +121,8 @@ https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka
 ![image](https://github.com/user-attachments/assets/ac73e007-73c7-44ba-ada4-af76987fbcb8)
 
 
+### Interactivity: Tell the Difference between ETL and ELT
+![image](https://github.com/user-attachments/assets/e97d635e-0aa0-463c-9454-be920a645d00)
 
 
 

@@ -131,6 +131,9 @@ https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka
 ## M2 - ETL & Data Pipelines: Tools and Techniques
 ![image](https://github.com/user-attachments/assets/165d8973-d1f3-4823-813e-e9873f768a44)
 
+![image](https://github.com/user-attachments/assets/0d328441-2e7a-4e77-a12a-981e8dfb9084)
+
+
 
 
 

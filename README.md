@@ -343,12 +343,11 @@ https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka
 ###### Tasks & Operators
 ![image](https://github.com/user-attachments/assets/698ae0c3-6ec6-477b-938b-790b43ff1f51)
 
-###### DAG definition components
+###### DAG definition components *
 ![image](https://github.com/user-attachments/assets/6374809a-b56d-46c5-8d5a-b83afe5a7233)
-
 ![image](https://github.com/user-attachments/assets/12efcec4-8241-42f9-b196-d0e8324513c8) *
-
 ![image](https://github.com/user-attachments/assets/fecc60b7-5bb3-45dc-baeb-96529f27b5fd)
+
 
 
 

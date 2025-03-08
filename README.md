@@ -346,14 +346,15 @@ https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka
 ###### DAG definition components
 ![image](https://github.com/user-attachments/assets/6374809a-b56d-46c5-8d5a-b83afe5a7233)
 
-![image](https://github.com/user-attachments/assets/50e51b5e-77b8-43e8-8379-0027f5d1d03f) *
+![image](https://github.com/user-attachments/assets/12efcec4-8241-42f9-b196-d0e8324513c8) *
+
 ![image](https://github.com/user-attachments/assets/fecc60b7-5bb3-45dc-baeb-96529f27b5fd)
 
 
 
 ## M4 - Building Streaming Pipelines using Kafka
+![image](https://github.com/user-attachments/assets/50e51b5e-77b8-43e8-8379-0027f5d1d03f) 
 
-![image](https://github.com/user-attachments/assets/12efcec4-8241-42f9-b196-d0e8324513c8)
 
 
 

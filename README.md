@@ -299,7 +299,7 @@ https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka
 
 #### Interactivity: Differentiate between Batch Processing and Stream Processing
 ![image](https://github.com/user-attachments/assets/f6139012-699b-4b17-a0ca-537150dd815e)
-
+* map reduce
 
 
 

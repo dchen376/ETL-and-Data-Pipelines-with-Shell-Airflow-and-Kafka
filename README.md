@@ -172,20 +172,72 @@ https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka
 
 ![image](https://github.com/user-attachments/assets/7c9d27a3-cbd4-47ca-8066-1b7056d83665)
 
-##### schedule
-![image](https://github.com/user-attachments/assets/eb753c03-f929-4004-90ad-870c5c63c6aa)
+##### schedule 
+![image](https://github.com/user-attachments/assets/eb753c03-f929-4004-90ad-870c5c63c6aa) * cron job
 
 ![image](https://github.com/user-attachments/assets/5b1bf5c4-5f69-455d-9379-19cbeafba01c)
 
 
 
-
 ### An Introduction to Data Pipelines
+
+#### Introduction to Data Pipelines
+![image](https://github.com/user-attachments/assets/380802cb-9707-40d6-ae00-c7a350a93da2)
+
+##### pipeline
+![image](https://github.com/user-attachments/assets/f86f6805-51c9-4df6-b75e-bbe921a0a2f8)
+
+- data pipeline
+![image](https://github.com/user-attachments/assets/dddb2569-4044-407c-a1a0-d9395af61630)
+![image](https://github.com/user-attachments/assets/a8fc4cdd-000a-4f81-be8a-5b34cb064e92)
+
+- packet * 
+  ![image](https://github.com/user-attachments/assets/6d309ec2-418b-41cb-bb3c-f5bbd0d78153)
+  - latency *
+    ![image](https://github.com/user-attachments/assets/891802d2-a28e-4811-abf9-e1451546e168)
+  - throughput
+    ![image](https://github.com/user-attachments/assets/4f1e4dbf-8011-46d0-8cd1-03a13dacb518)
+
+
+- use cases for data pipelines
+  ![image](https://github.com/user-attachments/assets/5f3ce26c-048e-4bcb-8de7-1f729c3f65ff)
+
+
+![image](https://github.com/user-attachments/assets/24489df3-2985-472d-a591-340ac056ecaa)
+
+
+#### Key Data Pipeline Processes
+![image](https://github.com/user-attachments/assets/31046e8b-ae7b-460d-80d5-20403dfa379c)
+
+##### data pipeline processes
+![image](https://github.com/user-attachments/assets/5e86c5a3-36ab-4c7a-8314-9cd755764afa) *
+![image](https://github.com/user-attachments/assets/531fd68f-8bbd-4d51-bf3b-a1556cb9684c) *
+
+##### pipeline monitoring 
+![image](https://github.com/user-attachments/assets/3abc97ae-b0a7-4f99-a44b-70ac329a8084) *
+
+- load balanced pipelines *
+  ![image](https://github.com/user-attachments/assets/3bc18d00-32cd-4e3f-b237-abd9e7cfcf91)
+
+- unbalnced loads
+![image](https://github.com/user-attachments/assets/9be0b01d-557e-4011-a162-66eef9dd1bb7)
+
+##### stage synchronization 
+![image](https://github.com/user-attachments/assets/efc1fec3-4256-4499-9c93-fbcdcbdd162a) * Parallelization * I/O buffers
+
+![image](https://github.com/user-attachments/assets/1551b9ab-3578-4b90-a96d-426b20c4eb9b)
+
+![image](https://github.com/user-attachments/assets/823e0bf4-9ff2-40fe-aa99-474625faa7f9) * bottlenecks, dynamic / non-linear pipelines
+
+
+
+#### Batch versus Streaming Data Pipeline Use Cases
 
 
 
 ## M3 - Building Data Pipelines using Airflow
 ![image](https://github.com/user-attachments/assets/9ad0f2df-3ad9-4169-a2bb-b9a1c5fdbd38)
+
 
 
 

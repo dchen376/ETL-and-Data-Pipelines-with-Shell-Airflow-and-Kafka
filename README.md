@@ -479,6 +479,37 @@ https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka
 ![image](https://github.com/user-attachments/assets/b0903e72-4f71-432a-b168-0144ace8d392)
 
 
+### Building Event Streaming Pipelines using Kafka
+![image](https://github.com/user-attachments/assets/47e20065-8d82-4f39-a252-b2aa3d2ead8e)
+
+#### Broker & Topic
+![image](https://github.com/user-attachments/assets/343432bb-3804-414f-85f6-668f44b98fdf) *
+
+#### Partition & replications
+![image](https://github.com/user-attachments/assets/4febcc32-e5f9-4912-af58-f9513c4e3398) *
+
+#### Kafka topic CLI
+![image](https://github.com/user-attachments/assets/8c38fb68-b468-42f7-9830-81e6f39ec493) *
+
+#### Kafka Producer
+![image](https://github.com/user-attachments/assets/a0782729-0406-4865-8d43-42461673849c) *
+![image](https://github.com/user-attachments/assets/4102f5bf-dcf1-4cdd-90dc-f6e49d518301)
+
+#### Kafka producer CLI
+![image](https://github.com/user-attachments/assets/9791019e-7ab8-4892-8277-bf86cb07671c)
+
+#### Kafka consumer
+![image](https://github.com/user-attachments/assets/c904bda0-f90d-41da-a7bb-3f6070033422)
+![image](https://github.com/user-attachments/assets/58afc510-2ac7-433e-9249-2d6878687c49)
+
+#### Kafka consumer CLI
+![image](https://github.com/user-attachments/assets/d6cc037b-d431-4af5-9469-2e22e5d65cde) *offset event
+
+#### Example: A weather Pipeline
+![image](https://github.com/user-attachments/assets/2cc540d7-13c4-4596-8d16-f3fa55cea37b)
+
+![image](https://github.com/user-attachments/assets/624dc1f3-1fc4-478f-a106-e265a26100c1)
+
 
 
 

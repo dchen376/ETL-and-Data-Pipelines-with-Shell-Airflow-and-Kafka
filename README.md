@@ -456,11 +456,27 @@ https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka
    
   ![image](https://github.com/user-attachments/assets/fa5711a8-33fa-454b-9529-f0d2c37f7af6)
 
+![image](https://github.com/user-attachments/assets/e36728bd-1e33-4989-834c-c637e5167113)
 
 
+### Apache Kafka Overview
+![image](https://github.com/user-attachments/assets/54ca60bd-0efe-405e-8caf-b3b5c968fbb6)
 
+-use cases
+![image](https://github.com/user-attachments/assets/e4e457b0-016f-45c0-9c70-406c758baaa7)
+![image](https://github.com/user-attachments/assets/4357329b-db0f-495a-9f19-1d5122b1ff5d)
 
+#### Architecture
+![image](https://github.com/user-attachments/assets/fd7a4881-d9f4-4272-ab29-8c78aca5482f)
 
+#### Main Features
+![image](https://github.com/user-attachments/assets/ea77c6f2-b982-424e-87e6-5308b346924a)
+
+#### ESP as a Service
+(deploying a kafka cluster?)
+![image](https://github.com/user-attachments/assets/6092cc60-39bd-4e3c-b78f-8efd64ff898c)
+
+![image](https://github.com/user-attachments/assets/b0903e72-4f71-432a-b168-0144ace8d392)
 
 
 

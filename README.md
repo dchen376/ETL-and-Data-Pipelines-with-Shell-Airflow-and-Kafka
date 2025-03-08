@@ -412,10 +412,21 @@ https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka
 
 #### logging 
 (used to monitoring tasks)
-![image](https://github.com/user-attachments/assets/413c7012-2d0b-4d7e-b7e3-58af29843b73)
-
 ![image](https://github.com/user-attachments/assets/a80b9bed-9c98-444f-8596-71842b23e42b) * elasticsearch, splunk (popular search engines)
 
+- log files (for airflow)
+![image](https://github.com/user-attachments/assets/65828d46-4e4e-4623-a37e-9eb989e0b304)
+
+- revewing tasks events through UI
+  ![image](https://github.com/user-attachments/assets/495efc9a-dfa3-41b1-a385-50e659a9f8cd)
+
+#### Monitoring metrics
+![image](https://github.com/user-attachments/assets/b212478f-3e74-4bfa-b685-cb93a82e06d7) *
+
+- storing and analyzing metrics
+  ![image](https://github.com/user-attachments/assets/30666738-d9e7-4ce2-81e4-16f148a20269) *
+  
+![image](https://github.com/user-attachments/assets/5e554109-57c6-4783-89e0-cd03b69ef0d8) * statsD, network daemon
 
 
 

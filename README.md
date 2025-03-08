@@ -231,8 +231,77 @@ https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka
 ![image](https://github.com/user-attachments/assets/1551b9ab-3578-4b90-a96d-426b20c4eb9b)
 
 
-
 #### Batch versus Streaming Data Pipeline Use Cases
+![image](https://github.com/user-attachments/assets/88bb9b29-46c4-4f40-8dc2-0042a58e6f15)
+
+##### Batch data pipelines
+![image](https://github.com/user-attachments/assets/19a6ad23-8cff-4887-aa80-e11f909dd302)
+
+##### Streaming data pipelines
+![image](https://github.com/user-attachments/assets/d221caf2-df6b-425c-89af-afc321ad574e)
+
+##### micro-batch data pipelines
+![image](https://github.com/user-attachments/assets/42161c4c-3276-43da-ac66-8bd2c2e3cc82)
+
+
+##### Batch vs Stream requirements
+- tradeoff*: accuracy vs. latency
+![image](https://github.com/user-attachments/assets/257bb093-edf4-41db-8a2a-b421d6f43c2a)
+
+##### Lambda architecture
+(a hybrid architecture)
+![image](https://github.com/user-attachments/assets/4c6c1486-338d-437b-b947-bfefd8464083) *
+![image](https://github.com/user-attachments/assets/733d53e4-aed0-49ad-8420-b06b8cf1ca6b) * data window
+
+##### use cases
+ - for batch data pipelines
+   ![image](https://github.com/user-attachments/assets/39648566-6b6a-46e2-bc2d-323328d79d3d)
+- for streaming data pipeline
+  ![image](https://github.com/user-attachments/assets/7e9c6878-66f8-464f-891e-abbe19828ce4)
+![image](https://github.com/user-attachments/assets/5ba92ecc-c93e-4890-89db-14330bd343ce)
+
+
+![image](https://github.com/user-attachments/assets/94bff309-188f-4d7d-8571-0b916ed82d1a)
+
+
+#### Data Pipeline Tools and Technologies
+  ![image](https://github.com/user-attachments/assets/714ebfc4-7996-49fb-9714-fa12320a397a)
+
+
+- features of modern pipeline tools *
+![image](https://github.com/user-attachments/assets/4b9185bd-9d75-4c16-a69e-b179756763d7)
+
+- open sourced data pipeline tools *
+  ![image](https://github.com/user-attachments/assets/2bf59005-7cb5-4698-9621-996a41d468a6)
+    - apache Airflow
+  ![image](https://github.com/user-attachments/assets/c91d780b-06c3-4cf5-9dbf-b2dc5e81d0e8)
+    - Talend Open Studio
+      ![image](https://github.com/user-attachments/assets/da3e6c96-dc8c-4671-9312-4c188a9af9b5)
+- enterprise data pipeline tools *
+    - AWS Glue
+![image](https://github.com/user-attachments/assets/241b17e1-22d9-499f-aeae-36c5c157c684)
+    - Panoply (focuse ELT! *)
+      ![image](https://github.com/user-attachments/assets/e1896c58-8add-49b7-9cfc-41e8e826bb9d)
+  - Alteryx (handle both ETL and ELT)
+    ![image](https://github.com/user-attachments/assets/8e699b99-54fe-4aad-86b1-efa8fc9baf48)
+  - IBM infoSphere DataStage (handle both)
+    ![image](https://github.com/user-attachments/assets/d1db75cb-1f39-47b9-bc2e-c333a9e31c9d)
+
+- Streaming data pipeline tools *
+    - IBM Streams
+      ![image](https://github.com/user-attachments/assets/464e2c80-0319-4220-988b-feccc87035ab)
+
+    - more streaming data pipeline tools
+      ![image](https://github.com/user-attachments/assets/13c23d63-d370-4b35-b9b2-f2f195ee0b0d)
+
+
+  ![image](https://github.com/user-attachments/assets/3bb4cd88-32ae-4f66-9b1f-68aafb8a872e)
+
+#### Interactivity: Differentiate between Batch Processing and Stream Processing
+![image](https://github.com/user-attachments/assets/f6139012-699b-4b17-a0ca-537150dd815e)
+
+
+
 
 
 

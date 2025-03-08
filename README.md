@@ -380,6 +380,7 @@ https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka
 ![image](https://github.com/user-attachments/assets/edb18a17-aee3-41f5-94c7-70d6aa42b931)
 
 
+###  Reading: DAG Structure and Operators
 
 
 

@@ -1,3 +1,4 @@
+
 # ETL-and-Data-Pipelines-with-Shell-Airflow-and-Kafka
 https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka
 
@@ -532,7 +533,23 @@ https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka
 ![image](https://github.com/user-attachments/assets/3a6c4622-5a01-41a1-b3c2-0947c0646052)
 
 
-* message keys, consumer offsets
+*message keys, consumer offsets *message queue
+
+### Kafka Python Client 
+![image](https://github.com/user-attachments/assets/a1e869d4-5efb-484a-af70-c8c022dcbfdc)
+
+![image](https://github.com/user-attachments/assets/2e66fbd7-ef39-4129-9c8f-a6b5cf22020e)
+
+![image](https://github.com/user-attachments/assets/ba25331c-ac34-47b6-ae02-e8a85a686601)
+![image](https://github.com/user-attachments/assets/0b910801-3f36-43eb-ae74-069bbee6db83)
+
+![image](https://github.com/user-attachments/assets/13d84ea7-15c9-4ded-ab99-56195f78d006)
+
+![image](https://github.com/user-attachments/assets/3d18429b-f147-4e6f-ad79-32a2d4a34ccc)
+
+
+
+
 
 ## M5 - Final Assignment
 ![image](https://github.com/user-attachments/assets/ecebd1fc-098f-4198-bea7-9b8d3b31f54e)

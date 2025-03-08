@@ -155,6 +155,27 @@ https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka
 
 
 #### ETL Using Shell Scripting
+![image](https://github.com/user-attachments/assets/e3cefca1-0e96-4be1-96ee-a0f8c4079ca0)
+
+![image](https://github.com/user-attachments/assets/51760ccf-c677-4e07-92b2-d9bcee5a79be)
+![image](https://github.com/user-attachments/assets/a1fe4506-13e5-4a02-8b95-4c7aeadf0799)
+
+##### create an ETL shell script
+![image](https://github.com/user-attachments/assets/f69cd33f-5553-4f7c-8237-f990f64239d3)
+![image](https://github.com/user-attachments/assets/41fbd94f-9e7c-474a-87cc-72a559a5b4a4)
+
+- transform
+![image](https://github.com/user-attachments/assets/f89d41fa-cd00-4916-a180-2a7b744415ef)
+
+- load
+  ![image](https://github.com/user-attachments/assets/5eab46f1-f3ab-4da8-a06d-fc17b3ea6833)
+
+![image](https://github.com/user-attachments/assets/7c9d27a3-cbd4-47ca-8066-1b7056d83665)
+
+##### schedule
+![image](https://github.com/user-attachments/assets/eb753c03-f929-4004-90ad-870c5c63c6aa)
+
+![image](https://github.com/user-attachments/assets/5b1bf5c4-5f69-455d-9379-19cbeafba01c)
 
 
 

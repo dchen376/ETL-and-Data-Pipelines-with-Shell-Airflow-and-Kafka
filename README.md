@@ -522,7 +522,14 @@ https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka
 
 ##### Stream processing topology
 *a computational graph
-  
+  ![image](https://github.com/user-attachments/assets/8bb94f8c-3880-458d-8ae8-d2f5fccd6ab1)
+##### Source processor & Stream Processor & Sink processor
+![image](https://github.com/user-attachments/assets/5a0dc643-e7cf-4e31-a8be-9edde906e492) *
+
+#### Example: redesign with Kafka weather stream processing
+![image](https://github.com/user-attachments/assets/1de0fc8b-c474-498f-a173-67ceebb9f2dd)
+
+![image](https://github.com/user-attachments/assets/3a6c4622-5a01-41a1-b3c2-0947c0646052)
 
 
 

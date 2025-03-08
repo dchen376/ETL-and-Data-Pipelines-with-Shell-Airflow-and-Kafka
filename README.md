@@ -331,32 +331,56 @@ https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka
 ![image](https://github.com/user-attachments/assets/d7e94ff8-51a9-4f6e-a14c-0cc0bdd3fa1a)
 
 
-#### Advantages of Representing Data Pipelines as DAGs in Apache Airflow
+### Advantages of Representing Data Pipelines as DAGs in Apache Airflow
 ![image](https://github.com/user-attachments/assets/d544e021-8373-445d-a1bc-0a16ef14d90b)
 
-##### DAGs (Directed Acyclic Graph)
+#### DAGs (Directed Acyclic Graph)
 ![image](https://github.com/user-attachments/assets/9d6e041b-7a75-40f8-9345-cc8dab7789fa)
 ![image](https://github.com/user-attachments/assets/52d30120-4ff3-4795-aee2-409664caa3d8)
 
 ![image](https://github.com/user-attachments/assets/40c2aa92-be77-4ac6-b9cd-399be01fcccc)
 
-###### Tasks & Operators
+#### Tasks & Operators
 ![image](https://github.com/user-attachments/assets/698ae0c3-6ec6-477b-938b-790b43ff1f51)
 
-###### DAG definition components *
+#### DAG definition components *
 ![image](https://github.com/user-attachments/assets/6374809a-b56d-46c5-8d5a-b83afe5a7233)
 ![image](https://github.com/user-attachments/assets/12efcec4-8241-42f9-b196-d0e8324513c8) *
 ![image](https://github.com/user-attachments/assets/fecc60b7-5bb3-45dc-baeb-96529f27b5fd)
 ![image](https://github.com/user-attachments/assets/f0dfc57c-cfdc-4fa1-9d7e-64503a9f0cd8) * task2 depends on the result of task1
 
-##### airflow Scheduler
+#### airflow Scheduler
 ![image](https://github.com/user-attachments/assets/eb6cfca0-5de1-4c56-aaf4-c8acecc0f9f5)
 
-##### workflows as code
+#### workflows as code
 ![image](https://github.com/user-attachments/assets/e9296a94-8480-4d31-8b59-80cab17fd84f)
 
 
 ![image](https://github.com/user-attachments/assets/d4282ba2-8151-48fa-962e-f477997ff8fe)
+
+
+### Apache Airflow UI
+![image](https://github.com/user-attachments/assets/0732bf37-cde9-42a6-8a40-4179f8091588)
+
+- DAGs view
+  ![image](https://github.com/user-attachments/assets/de5f447e-420d-4f53-a439-cccdc363f7bd)
+![image](https://github.com/user-attachments/assets/a9b11451-f5fc-44e7-ba3f-2442b530601a)
+
+![image](https://github.com/user-attachments/assets/e252ef2c-6f54-44ab-87bc-a5e9b3702db8)
+
+![image](https://github.com/user-attachments/assets/4cc12dc1-1025-4156-a77f-74ef280f06c0)
+![image](https://github.com/user-attachments/assets/979c1716-7292-4de5-91aa-e44a96199bdb)
+
+![image](https://github.com/user-attachments/assets/2b25b0a6-8dc7-4fcb-86a8-df97f4fbf563)
+
+![image](https://github.com/user-attachments/assets/fa64296a-e88b-4666-971e-776cf5d95952)
+
+![image](https://github.com/user-attachments/assets/3c50adf2-25de-4450-8bc7-d26f8b6ae1e5)
+
+![image](https://github.com/user-attachments/assets/edb18a17-aee3-41f5-94c7-70d6aa42b931)
+
+
+
 
 
 

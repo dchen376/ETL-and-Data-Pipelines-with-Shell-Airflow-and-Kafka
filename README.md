@@ -392,12 +392,39 @@ https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka
 ![image](https://github.com/user-attachments/assets/70bb9308-3396-4446-9c35-4b03a3170e9f)
 ![image](https://github.com/user-attachments/assets/485162b5-adb0-4d8b-97c4-85ddb25bda2a)
 
+### Build a DAG Using Airflow
+![image](https://github.com/user-attachments/assets/d6acbf98-a41f-4d0c-9979-f84cd9188fc5)
+![image](https://github.com/user-attachments/assets/50b15954-c7c2-4a1d-af31-82d9c9a3f4d7)
+
+![image](https://github.com/user-attachments/assets/9f6252c4-c6e6-4126-b9e8-8439e4265302)
+![image](https://github.com/user-attachments/assets/903ca267-7fa9-40a4-924b-0c8609527540)
+![image](https://github.com/user-attachments/assets/61c24119-38f5-4be9-9c3d-0991c564a1ef)
+![image](https://github.com/user-attachments/assets/8a4f96fc-3987-4840-acab-9f78bdd9b8ac)
+![image](https://github.com/user-attachments/assets/dfebf125-aed8-4c53-8c99-bb0a5ae47200)
+![image](https://github.com/user-attachments/assets/b1704076-baf4-4084-9c42-8eb043e3e651)
+
+![image](https://github.com/user-attachments/assets/d5b2111c-d5a9-4126-839e-7cee3b24843e)
+
+
+### Airflow Logging and Monitoring
+![image](https://github.com/user-attachments/assets/66e5d031-53e8-4d54-96a3-ad805e3c7015)
+
+
+#### logging 
+(used to monitoring tasks)
+![image](https://github.com/user-attachments/assets/413c7012-2d0b-4d7e-b7e3-58af29843b73)
+
+![image](https://github.com/user-attachments/assets/a80b9bed-9c98-444f-8596-71842b23e42b) * elasticsearch, splunk (popular search engines)
+
+
 
 
 
 
 ## M4 - Building Streaming Pipelines using Kafka
-![image](https://github.com/user-attachments/assets/50e51b5e-77b8-43e8-8379-0027f5d1d03f) 
+
+
+
 
 
 

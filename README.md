@@ -381,6 +381,17 @@ https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka
 
 
 ###  Reading: DAG Structure and Operators
+![image](https://github.com/user-attachments/assets/4e10993f-c315-404e-a8db-663807b54593)
+
+![image](https://github.com/user-attachments/assets/0384908a-f107-45a4-91d7-7613167f4a6b)
+![image](https://github.com/user-attachments/assets/59af18e9-46f2-4fb7-8422-521b6228c364)
+![image](https://github.com/user-attachments/assets/16c04404-a76b-4e10-889a-f8264174be3d)
+
+- Anatomy of a DAG
+  ![image](https://github.com/user-attachments/assets/fc9bd480-83ea-486a-b263-037bf16072f1)
+![image](https://github.com/user-attachments/assets/70bb9308-3396-4446-9c35-4b03a3170e9f)
+![image](https://github.com/user-attachments/assets/485162b5-adb0-4d8b-97c4-85ddb25bda2a)
+
 
 
 

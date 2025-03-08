@@ -532,6 +532,7 @@ https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka
 ![image](https://github.com/user-attachments/assets/3a6c4622-5a01-41a1-b3c2-0947c0646052)
 
 
+* message keys, consumer offsets
 
 ## M5 - Final Assignment
 ![image](https://github.com/user-attachments/assets/ecebd1fc-098f-4198-bea7-9b8d3b31f54e)

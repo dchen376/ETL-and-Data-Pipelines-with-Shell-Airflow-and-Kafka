@@ -303,13 +303,47 @@ https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka
 
 
 
-
-
 ## M3 - Building Data Pipelines using Airflow
 ![image](https://github.com/user-attachments/assets/9ad0f2df-3ad9-4169-a2bb-b9a1c5fdbd38)
+![image](https://github.com/user-attachments/assets/9f7874eb-285a-4734-a682-21106ad1b878)
+
+### Apache Airflow Overview
+![image](https://github.com/user-attachments/assets/7f86ce38-42bb-4134-af35-61de79aea2c2) 
+![image](https://github.com/user-attachments/assets/99bef262-2782-4f6e-8d97-6468d4c21695) * workflow, DAG
+
+#### Airflow architecture
+![image](https://github.com/user-attachments/assets/e7778c0b-8cd8-4fc1-99f6-13d7b8331a36)
+- the DAG file
+  ![image](https://github.com/user-attachments/assets/48501500-d834-44d4-a7ab-ce6775ea517d)
+- lifecycle of airflow task state
+  ![image](https://github.com/user-attachments/assets/d748bf72-28a5-4480-a912-61ee806b1abc)
+
+- airflow featrues
+  ![image](https://github.com/user-attachments/assets/11b0a186-f56d-45e0-81ab-69525ff5db6d)
+![image](https://github.com/user-attachments/assets/17886c06-206a-40f0-ba67-e05d0793c5e5)
+
+- airflow principles
+  ![image](https://github.com/user-attachments/assets/3f2f5a88-f151-414e-948f-79c7c92640f1) * lean
+
+- airflow Use Cases
+  ![image](https://github.com/user-attachments/assets/7b8ad1c7-c25f-4bd4-a289-7270f9ba6fc9)
+
+![image](https://github.com/user-attachments/assets/d7e94ff8-51a9-4f6e-a14c-0cc0bdd3fa1a)
 
 
+#### Advantages of Representing Data Pipelines as DAGs in Apache Airflow
+![image](https://github.com/user-attachments/assets/d544e021-8373-445d-a1bc-0a16ef14d90b)
 
+##### DAGs (Directed Acyclic Graph)
+![image](https://github.com/user-attachments/assets/9d6e041b-7a75-40f8-9345-cc8dab7789fa)
+![image](https://github.com/user-attachments/assets/52d30120-4ff3-4795-aee2-409664caa3d8)
+
+![image](https://github.com/user-attachments/assets/40c2aa92-be77-4ac6-b9cd-399be01fcccc)
+
+###### Tasks & Operators
+![image](https://github.com/user-attachments/assets/698ae0c3-6ec6-477b-938b-790b43ff1f51)
+
+###### DAG definition components
 
 
 

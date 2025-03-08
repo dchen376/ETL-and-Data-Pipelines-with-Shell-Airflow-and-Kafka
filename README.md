@@ -225,9 +225,10 @@ https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka
 ##### stage synchronization 
 ![image](https://github.com/user-attachments/assets/efc1fec3-4256-4499-9c93-fbcdcbdd162a) * Parallelization * I/O buffers
 
-![image](https://github.com/user-attachments/assets/1551b9ab-3578-4b90-a96d-426b20c4eb9b)
-
 ![image](https://github.com/user-attachments/assets/823e0bf4-9ff2-40fe-aa99-474625faa7f9) * bottlenecks, dynamic / non-linear pipelines
+
+
+![image](https://github.com/user-attachments/assets/1551b9ab-3578-4b90-a96d-426b20c4eb9b)
 
 
 

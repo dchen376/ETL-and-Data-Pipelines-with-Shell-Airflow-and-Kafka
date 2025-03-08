@@ -433,6 +433,33 @@ https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka
 
 
 ## M4 - Building Streaming Pipelines using Kafka
+![image](https://github.com/user-attachments/assets/2d5aca17-2827-4000-ab85-7c8807a11340)
+
+### Distributed Event Streaming Platform Components
+![image](https://github.com/user-attachments/assets/b307fb11-a762-4d50-aef4-ec0f6fe9d9d5)
+
+#### event 
+![image](https://github.com/user-attachments/assets/1e475633-c29a-4d33-89de-c3b323ca82cc) *
+![image](https://github.com/user-attachments/assets/9ba3eab7-dd53-4e19-85c2-a4af69844924)
+
+#### event streaming 
+![image](https://github.com/user-attachments/assets/0b3e3343-f5c6-4c76-be92-ac0bdd3870f8) *
+
+![image](https://github.com/user-attachments/assets/f0ff7a31-9732-4390-ab80-d6fcf7c52338)
+
+#### Event Streaming platform (ESP)
+![image](https://github.com/user-attachments/assets/567f7220-db0b-4ab9-9636-75320e2d61c2)
+##### ESP components
+   ![image](https://github.com/user-attachments/assets/9cbc192d-a8ac-401c-a931-53ce10add54f)
+   ###### event broker
+   ![image](https://github.com/user-attachments/assets/310d45ca-efb0-4b1c-847a-0c770e62cdd4) *
+   
+  ![image](https://github.com/user-attachments/assets/fa5711a8-33fa-454b-9529-f0d2c37f7af6)
+
+
+
+
+
 
 
 

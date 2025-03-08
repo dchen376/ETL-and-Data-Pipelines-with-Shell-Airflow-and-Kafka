@@ -347,7 +347,16 @@ https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka
 ![image](https://github.com/user-attachments/assets/6374809a-b56d-46c5-8d5a-b83afe5a7233)
 ![image](https://github.com/user-attachments/assets/12efcec4-8241-42f9-b196-d0e8324513c8) *
 ![image](https://github.com/user-attachments/assets/fecc60b7-5bb3-45dc-baeb-96529f27b5fd)
+![image](https://github.com/user-attachments/assets/f0dfc57c-cfdc-4fa1-9d7e-64503a9f0cd8) * task2 depends on the result of task1
 
+##### airflow Scheduler
+![image](https://github.com/user-attachments/assets/eb6cfca0-5de1-4c56-aaf4-c8acecc0f9f5)
+
+##### workflows as code
+![image](https://github.com/user-attachments/assets/e9296a94-8480-4d31-8b59-80cab17fd84f)
+
+
+![image](https://github.com/user-attachments/assets/d4282ba2-8151-48fa-962e-f477997ff8fe)
 
 
 

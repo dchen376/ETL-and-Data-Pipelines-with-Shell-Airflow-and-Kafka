@@ -510,8 +510,19 @@ https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka
 
 ![image](https://github.com/user-attachments/assets/624dc1f3-1fc4-478f-a106-e265a26100c1)
 
+### Kafka Streaming Process
+![image](https://github.com/user-attachments/assets/521a7900-ab9b-4953-8a32-66735741666f)
+![image](https://github.com/user-attachments/assets/7cb36bfe-b56e-4aa0-b70b-e0448fa1717d) *stream processing application  -> *Ad hoc processor
 
+- Ad hoc data processor *
+![image](https://github.com/user-attachments/assets/41cfe8b2-e64c-47ef-917f-8aa6d1de151b) *such ad hoc processors may become compliated if you have diff topics to be processed
 
+#### Kafka Streams API
+![image](https://github.com/user-attachments/assets/3f840e93-6307-4ac8-9f0e-bd4ff475ec6d) *process and analyze data within kafka Topics
+
+##### Stream processing topology
+ * a computational graph
+  
 
 
 

@@ -521,7 +521,7 @@ https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka
 ![image](https://github.com/user-attachments/assets/3f840e93-6307-4ac8-9f0e-bd4ff475ec6d) *process and analyze data within kafka Topics
 
 ##### Stream processing topology
- * a computational graph
+*a computational graph
   
 
 
